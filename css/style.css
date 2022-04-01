@@ -7,3 +7,16 @@
 .navText{
     color: white;
 }
+#parent{
+    position: relative;
+}
+
+.box{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 450px;
+}
+.footer{
+    position: relative;
+}
