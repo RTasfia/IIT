@@ -1,0 +1,139 @@
+body {
+    background-color: #C4C4C4;;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: left;
+    /* color: rgba(0, 8, 14, 0.623); */
+}
+
+a {
+    text-decoration: none;
+}
+
+.row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.top-nav {
+    background: #002366;
+    ;
+    align-items: center;
+    align-content: center;
+    /* overflow: hidden; */
+}
+
+.top_left {
+    font-size: 30px;
+    padding-left: 60px;
+    align-items: center;
+}
+
+.top_left a {
+    color:  #0F4D92;
+    ;
+}
+
+.top_right .btn {
+    float: right;
+    background-color:  #0F4D92;
+    ;
+}
+
+.header {
+    align-items: center;
+    display: flex;
+}
+
+.header .logo {
+    height: 120px;
+    width: 160px;
+}
+
+.navbar {
+    width: 100%;
+    background-color:  #0F4D92;
+    ;
+    font-size: 20px;
+    align-items: center;
+}
+
+.nav {
+    margin-left: 285px;
+}
+
+.nav li a {
+    color: #002366;
+    ;
+}
+
+
+.nav-item li a {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    line-height: 1.42857143;
+    color: black;
+    font-family: 'open sans', arial, sans-serif;
+    box-sizing: border-box;
+    /*  position: absolute;  */
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    float: left;
+    font-size: 14px;
+    text-align: center;
+    list-style: none;
+    background-color: #fff;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+    display: block;
+    border-radius: 0;
+    background-clip: padding-box;
+    margin: 0;
+    border: none;
+    padding: 0;
+    text-transform: none;
+    min-width: 220px;
+}
+
+.card {
+    background-color: #182C61;
+    padding: 10px;
+}
+
+.card .card-body {
+    align-items: center;
+    color: white;
+}
+
+.card-title {
+    font-size: 17px;
+
+
+
+    background-color: #002366;;
+    padding: 15px 0px 0px 0px; 
+    margin-top: 10px;
+}
+
+
+
+
+
+.branch-button {
+    width: 3px; 
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.dhaka {
+    margin-left: 150px;
+} 
+
+.branch {
+    background-color: #0F4D92;;
+    ;
+}
+#emailHelp{
+    color: white;
+}
+
+
